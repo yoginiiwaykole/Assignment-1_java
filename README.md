@@ -29,3 +29,17 @@ divide: This method takes two numbers as input and returns their quotient.
 sumArray: This method takes an array of numbers as input and returns their sum.
 variance: This method takes an array of numbers as input and returns its variance.
 standardDeviation: This method takes an array of numbers as input and returns its standard deviation. Usage To use the calculator, simply run the Main.java file. The program will prompt you to choose an operation, and then input the necessary numbers or array. The result will be displayed on the screen.
+
+
+
+
+Factorial Calculation:
+This program calculates the factorial of a given number. It provides multiple input methods for user convenience such as command line arguments, scanner, buffered reader, data input stream, and console.
+
+Input methods:
+Command line args: pass the number as a command line argument when running the program.
+Scanner: enter the number through the console using the Scanner class.
+BufferedReader: enter the number through the console using the BufferedReader class.
+DataInputStream: enter the number through the console using the DataInputStream class.
+Console: enter the number through the console using the Console class (may not be available in all environments).
+Once the number is entered, the program will calculate and output the factorial of the number.
